@@ -4,8 +4,8 @@ This repository contains a collection of my web development projects and code sa
 
 ## Table of Contents
 
-**1)Travel Booking System**
+1)Travel Booking System
 
-**2)Calculator**
+2)Calculator
 
-**3)Currency Converter**
+3)Currency Converter
