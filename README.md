@@ -1,7 +1,11 @@
 # CognoRise-Infotech - Web Development Intern
 
-1)Travel Booking System
+This repository contains a collection of my web development projects and code samples created during my internship.
 
-2)Calculator
+## Table of Contents
 
-3)Currency Converter
+**1)Travel Booking System**
+
+**2)Calculator**
+
+**3)Currency Converter**
